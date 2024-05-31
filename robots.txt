@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://theurot.github.io/a/sitemap.html
+Sitemap: https://theurot.github.io/b/sitemap.html
+Sitemap: https://theurot.github.io/c/sitemap.html
+Sitemap: https://theurot.github.io/d/sitemap.html
